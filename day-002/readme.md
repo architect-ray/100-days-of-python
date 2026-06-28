@@ -1,7 +1,11 @@
-Day 002 — Bill Tip Calculator
+# Day 002 — Bill Tip Calculator
+
+```
  /\   architectray
 /__\  100 Days of Python · 2026-06-28
-Concepts: data types, operations, type conversion. The real lesson: understanding how types interact, why conversion matters, and how a simple percentage becomes a clean multiplier.
+```
+**Concepts:** data types, operations, type conversion.
+**The real lesson:** understanding how types interact, why conversion matters, and how a simple percentage becomes a clean multiplier.
 
 ---
 
